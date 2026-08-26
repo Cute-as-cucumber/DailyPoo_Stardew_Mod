@@ -1,0 +1,10 @@
+{
+  "Name": "Daily Poo",
+  "Author": "cute_as_cucumber",
+  "Version": "0.5.4",
+  "Description": "Poop every day on your toilet, or wake up with half your energy.",
+  "UniqueID": "cute_as_cucumber.DailyPoo",
+  "EntryDll": "DailyPoo.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

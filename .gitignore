@@ -1,0 +1,25 @@
+# .NET build output and release archives
+**/bin/
+**/obj/
+*.zip
+
+# Local mod settings
+DailyPoo/config.json
+
+# Editors and IDEs
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Local environment and logs
+.env
+.env.*
+!.env.example
+*.log
+
+# macOS
+.DS_Store
